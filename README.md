@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@call_me_as_jijo" target="blank"><img src="https://img.shields.io/twitter/follow/@call_me_as_jijo?logo=twitter&style=for-the-badge" alt="@call_me_as_jijo" /></a> </p>
 
-- 🔭 I’m currently working on [Restaurant Website](file:///C:/Users/jijo/Desktop/Project/index.html)
+- 🔭 I’m currently Studying on [B.E. in SMCE](file:///C:/Users/jijo/Desktop/Project/index.html)
 
 - 🌱 I’m currently learning **Backend Developing**
 
