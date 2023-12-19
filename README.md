@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Backend Developing**
 
-- 👯 I’m looking to collaborate on [Restaurant Web](file:///C:/Users/jijo/Desktop/Project/index.html)
+- 👯 I’m looking to collaborate on my [Restaurant Web](file:///C:/Users/jijo/Desktop/Project/index.html)
 
 - 💬 Ask me about **Angular,Anytime**
 
